@@ -1,0 +1,35 @@
+img{
+    width:200px;
+    height:350px; 
+}
+
+.box{
+    width:200px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.829);
+    color: white;
+}
+
+.content{
+    padding-left: 10px;
+    padding-top: 25px;
+}
+
+.heading{
+    height:70px;
+}
+
+.trailer{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    color: rgb(16, 127, 223);
+    width:160px;
+    height:35px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.505);
+    font-weight:600
+}
